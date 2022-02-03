@@ -4,16 +4,16 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |         Team-number      |
-| TeamName    |     TeamName|
-| Captain     |  Captain Name |
-| Captain     |      Captain-Email     |
-| Member1     |  FirstName LastName |
-| Member1     |      Member2-Email     |
-| Member2     |   FirstName LastName   |
-| Member2     |      Member3-Email     |
-| Member3     |   FirstName LastName   |
-| Member3     |      Member4-Email     |
+| TeamID      |         071      |
+| TeamName    |     standing like a snowman|
+| Captain     |  Bernie Zhu |
+| Captain     |      bwz2@illinois.edu     |
+| Member1     |  Joseph Jang |
+| Member1     |      jyj3@illinois.edu     |
+| Member2     |   Rahul Setlur   |
+| Member2     |      rsetlur2@illinois.edu     |
+| Member3     |   Siddhant Sharma   |
+| Member3     |      sharma63@illinois.edu     |
 
 ## Project Information
 
