@@ -19,7 +19,7 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-|  Title      |       ProjectTitle     |
+|  Title      |       UIUC Bus App     |
 | System URL  |      link_to_system    |
 | Video Link  |      link_to_video     |
 
