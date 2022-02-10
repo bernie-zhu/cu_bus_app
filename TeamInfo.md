@@ -1,4 +1,4 @@
-# TeamID-SampleProject
+# Team071-standing like a snowman
 
 ## Basic Information
 
@@ -24,4 +24,4 @@
 | Video Link  |      link_to_video     |
 
 ## Project Summary
-Please put your project summary here
+For our CS 411 Project, our group will create a bus app that takes in data from the CUMTD database to create an app that allows users to find bus stops and figure out what buses are coming to those stops. This would also allow users to find a way to get from one place to another based on what bus they are taking. For our app we’ll also have a simple frontend which allows the user to easily put and get the information that they need. The goal of our app is to be the best and only bus app that’s trusted by the students of UIUC to get them to the places they need to get to. 
