@@ -90,6 +90,15 @@ router.get('/advance_query_2', function(req, res, next) {
   });
 });
 
+/* procedure call */
+router.post('/get_color_coded_fav_stops', function(req, res, next) {
+  var {lat, lon, username} = req.body;
+  var query = con.query(`call result (?, ?, ?)`, [lat, lon, username], function(err, results) {
+    console.log(results);  
+    res.send(results);
+  });
+});
+
 
 
 module.exports = router;
