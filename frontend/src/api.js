@@ -76,3 +76,11 @@ export async function advanceQuery2() {
     });
 }
 
+export async function getColorCodedFavStops(lat, lon, username) {
+    return new Promise((resolve, reject) => {
+        api.post(`/get_color_coded_fav_stops`, { lat:lat, lon:lon, username: username}).then(response => {
+            resolve(response);
+        })
+    });
+}
+
